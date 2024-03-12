@@ -1,5 +1,1 @@
-plugins {
-    id("org.gradle.toolchains.foojay-resolver-convention") version "0.5.0"
-}
-rootProject.name = "remote-vehicle-diagnostics-Shared"
-
+rootProject.name = "shared"
